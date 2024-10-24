@@ -1,2 +1,2 @@
 # Neural-Networks-in-PyTorch
-Here I implement Convolutional Networks and Fully Connected Networks from scratch using PyTorch and then demonstrate Transfer Learning methodology.
+This repository contains Convolutional Networks and Fully Connected Networks implemented in PyTorch from scratch. Additionally, the Transfer Learning methodology is also demonstrated herewith.
